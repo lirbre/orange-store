@@ -8,5 +8,9 @@
 
 ## About This Project:
 * Created using React.
-* Dependencies: 
-  * Material UI and SASS disabled to study CSS.
+  * Fakestore API for get json data;
+  * [Amazon Hero Redesign for colors and inspiration.](https://www.figma.com/community/file/1023146671543403847)
+
+* Depenencies: 
+  * Material UI and SASS disabled to study CSS;
+  * React-icons for get the icons.
