@@ -1,4 +1,4 @@
-# Ecommerce Page 
+# Orange Store - Fictional Ecommerce
 
 ## Available Scripts:
 * `yarn start`
