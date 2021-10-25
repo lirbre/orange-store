@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/orange-store/static/css/main.2fa1fefe.chunk.css",
-    "main.js": "/orange-store/static/js/main.7a1fe616.chunk.js",
-    "main.js.map": "/orange-store/static/js/main.7a1fe616.chunk.js.map",
+    "main.css": "/orange-store/static/css/main.f2b5424c.chunk.css",
+    "main.js": "/orange-store/static/js/main.eaa5f445.chunk.js",
+    "main.js.map": "/orange-store/static/js/main.eaa5f445.chunk.js.map",
     "runtime-main.js": "/orange-store/static/js/runtime-main.7585f02a.js",
     "runtime-main.js.map": "/orange-store/static/js/runtime-main.7585f02a.js.map",
-    "static/js/2.c56aacf9.chunk.js": "/orange-store/static/js/2.c56aacf9.chunk.js",
-    "static/js/2.c56aacf9.chunk.js.map": "/orange-store/static/js/2.c56aacf9.chunk.js.map",
+    "static/js/2.cfd018cc.chunk.js": "/orange-store/static/js/2.cfd018cc.chunk.js",
+    "static/js/2.cfd018cc.chunk.js.map": "/orange-store/static/js/2.cfd018cc.chunk.js.map",
     "index.html": "/orange-store/index.html",
-    "static/css/main.2fa1fefe.chunk.css.map": "/orange-store/static/css/main.2fa1fefe.chunk.css.map",
-    "static/js/2.c56aacf9.chunk.js.LICENSE.txt": "/orange-store/static/js/2.c56aacf9.chunk.js.LICENSE.txt"
+    "static/css/main.f2b5424c.chunk.css.map": "/orange-store/static/css/main.f2b5424c.chunk.css.map",
+    "static/js/2.cfd018cc.chunk.js.LICENSE.txt": "/orange-store/static/js/2.cfd018cc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7585f02a.js",
-    "static/js/2.c56aacf9.chunk.js",
-    "static/css/main.2fa1fefe.chunk.css",
-    "static/js/main.7a1fe616.chunk.js"
+    "static/js/2.cfd018cc.chunk.js",
+    "static/css/main.f2b5424c.chunk.css",
+    "static/js/main.eaa5f445.chunk.js"
   ]
 }
